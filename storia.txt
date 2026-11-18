@@ -1,0 +1,15 @@
+Creare su GitHub una repository:
+Nome: museo-digitale
+Descrizione:
+Progetto didattico per la realizzazione di un museo digitale.
+La repository deve essere pubblica e deve contenere un README iniziale.
+Clonare quindi la repository sul computer utilizzando GitHub Desktop.
+
+2. Creazione dei contenuti
+Nella cartella locale della repository:
+(Se un file indicato di seguito non esiste ancora, crealo)
+
+Nel file README.md inserire:
+# Museo Digitale
+Benvenuti nel nostro museo digitale.
+Il progetto raccoglie informazioni, immagini e documenti relativi alle opere del museo.
