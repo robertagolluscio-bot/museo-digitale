@@ -10,6 +10,6 @@ Nella cartella locale della repository:
 (Se un file indicato di seguito non esiste ancora, crealo)
 
 Nel file README.md inserire:
-# Museo Digitale
+Museo Digitale
 Benvenuti nel nostro museo digitale.
 Il progetto raccoglie informazioni, immagini e documenti relativi alle opere del museo.
